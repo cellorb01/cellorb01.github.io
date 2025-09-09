@@ -28,5 +28,16 @@ figcaption {
 }
 
 figure img {
-    width: 800px;
+    width: 100%;
+}
+
+.matriz-Eletrash {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sede-Eletrash{
+    width: 275px;
+    float: right;
 }
