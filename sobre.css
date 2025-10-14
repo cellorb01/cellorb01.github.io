@@ -141,4 +141,15 @@ display: inline;
         border-left: 2px solid lightgrey;
     }
 
+    .rodape {
+        font-size: .92em;
+    }
+
+}
+
+@media (max-width: 342px) {
+    .contato__info-descricao {
+        display: block;
+        margin-left: 1em;
+    }
 }
